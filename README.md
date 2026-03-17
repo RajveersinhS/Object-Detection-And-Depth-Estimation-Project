@@ -75,22 +75,26 @@ It combines **YOLOv8-based object detection**, **IoU-based evaluation**, and **c
 
 ## 📂 Project Structure
 
+```bash
 object-detection-depth-estimation/
-│
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
+│
 ├── report/
-│ └── Task_Report.pdf
+│   └── Task_Report.pdf
+│
 ├── src/
-│ ├── detect_objects.py
-│ ├── iou_evaluation.py
-│ ├── precision_recall.py
-│ ├── depth_estimation.py
-│ └── utils.py
+│   ├── detect_objects.py
+│   ├── iou_evaluation.py
+│   ├── precision_recall.py
+│  
+│  
+│
 ├── results/
-│ ├── images/
-│ └── plots/
+│   ├── images/
+│   └── plots/
+│
 └── sample_data/
 
 
