@@ -127,5 +127,5 @@ Ravensburg-Weingarten University (RWU), Germany
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone [https://github.com/YOUR_USERNAME/YOUR_REPO.git
+cd YOUR_REPO](https://github.com/RajveersinhS/Object-Detection-And-Depth-Estimation-Project.git)
